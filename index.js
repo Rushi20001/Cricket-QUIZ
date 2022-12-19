@@ -34,7 +34,7 @@ var cricQuestions = [
     answer: "England",
   },
   {
-    question: "which team is winner of IPL2021?GT/RR->",
+    question: "which team is winner of IPL2022?GT/RR->",
     answer: "GT",
   },
   {
